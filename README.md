@@ -52,9 +52,9 @@ Directory: /home/rickmviana/            Shell: /usr/bin/zsh
 root@localhost # cat contact.txt
    : rickmviana@contact - Reach me!
 ┌──────────────────────────────────────────┐
-  \uf658 Email    :: rickmviana.dev@outlook.com 
+  󰇮Email    :: rickmviana.dev@outlook.com 
    GitHub   :: github.com/rickmv-dev 
-   LinkedIn :: -
+   LinkedIn :: - 
    Discord  :: rickmviana
    Website  :: -
    WhatsApp :: +55 (88) 99443-3345 
