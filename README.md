@@ -14,7 +14,7 @@
 
 ```console
 root@localhost # cat me.txt
-Login: avila                            Name: R. Marques
+Login: rick                             Name: R. Marques
 Directory: /home/rickmviana/            Shell: /usr/bin/zsh
   - Focused on server-side development, cloud,
     CI/CD, and IaC with Terraform & OpenTofu
