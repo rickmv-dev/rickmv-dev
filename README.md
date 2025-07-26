@@ -52,7 +52,7 @@ Directory: /home/rickmviana/            Shell: /usr/bin/zsh
 root@localhost # cat contact.txt
    : rickmviana@contact - Reach me!
 ┌──────────────────────────────────────────┐
-  󰇮Email    :: rickmviana.dev@outlook.com 
+   Email    :: rickmviana.dev@outlook.com 
    GitHub   :: github.com/rickmv-dev 
    LinkedIn :: - 
    Discord  :: rickmviana
