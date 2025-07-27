@@ -70,5 +70,5 @@ kbd></div>
 #
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickmv-dev&theme=dark&hide_title=true&hide_border=true&text_color=ffffff&hide=c,c%2B%2B,python,html,css,scss,dockerfile,go,makefile,javascript,typescript&langs_count=6" alt="Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickmv-dev&theme=dark&hide_title=true&hide_border=true&text_color=ffffff&hide=c,c%2B%2B,python,html,css,scss,dockerfile,makefile,javascript,typescript&langs_count=6" alt="Languages">
 </div>
