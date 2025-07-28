@@ -53,7 +53,7 @@ root@localhost # cat contact.txt
    : rickmviana@contact - Reach me!
 ┌──────────────────────────────────────────┐
    Email    :: rickmviana.dev@outlook.com 
-   GitHub   :: github.com/rickmv-dev 
+   GitHub   :: github.com/rickmvi 
    LinkedIn :: - 
    Discord  :: rickmviana
    Website  :: -
