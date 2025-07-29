@@ -56,6 +56,7 @@ root@localhost # cat contact.txt
    GitHub   :: github.com/rickmvi 
    LinkedIn :: - 
    Discord  :: rickmviana
+
    Website  :: -
    WhatsApp :: +55 (88) 99443-3345 
 └──────────────────────────────────────────┘
@@ -70,5 +71,5 @@ kbd></div>
 #
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickmv-dev&theme=dark&hide_title=true&hide_border=true&text_color=ffffff&langs_count=6" alt="Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickmvi&theme=dark&hide_title=true&hide_border=true&text_color=ffffff&langs_count=6" alt="Languages">
 </div>
