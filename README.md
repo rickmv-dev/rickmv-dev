@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+
   <br>
     <kbd> <br> 👋 Learn about me <br> </kbd>
 </p>
@@ -56,7 +57,6 @@ root@localhost # cat contact.txt
    GitHub   :: github.com/rickmvi 
    LinkedIn :: - 
    Discord  :: rickmviana
-
    Website  :: -
    WhatsApp :: +55 (88) 99443-3345 
 └──────────────────────────────────────────┘
