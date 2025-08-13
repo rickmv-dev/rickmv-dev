@@ -37,7 +37,7 @@ Directory: /home/rickmviana/            Shell: /usr/bin/zsh
 :MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM-MMM:     - Rust! 
 .MMM.MMMM`  :MM:--:MM:--:MM:  `MMMM.MMM.     - English & Chineses 
  :MMM:MMM-  `-MMMMMMMMMMMM-`  -MMM-MMM:    Reading:  
-  :MMM:MMM:`                `:MMM:MMM:     - Programming in Java 
+  :MMM:MMM:`                `:MMM:MMM:     - Design Patterns: Elements of Reusable Object-Oriented Software
    .MMM.MMMM:--------------:MMMM.MMM.      - System Design Interview 
 ```
 
