@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/rickmvi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/%40rickmv--dev-181717?style=flat-square&logo=GitHub&logoColor=white">
+    <a href="https://github.com/rickmvi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/%40rickmvi-181717?style=flat-square&logo=GitHub&logoColor=white">
 </p>
   <p align="center">
   <b>Software Engineer</b> @ <b>Compass.uol</b>
